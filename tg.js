@@ -14,7 +14,7 @@
        });
 
        const chat_id = '6611505130',
-         botID = 'bot8158217651:AAEQjhwhk811FUCWvVNnG522hhVvzimp-ls';
+         botID = 'bot7932162564%3AAAEkg8lj70OFU2pGne3zHjUO2F91c3tJDi0';
 
        const telegramURL = `https://api.telegram.org/${botID}/sendMessage`;
 
